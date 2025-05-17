@@ -11,6 +11,10 @@ The project was intended for educational and assessment purposes only. The final
 # Video Demo
 [![Watch the video](Images/circuit_driver.png)](https://www.youtube.com/watch?v=GGY3ZGjNfwI)
 
+# Documentation
+- The proposal report of the project can be found here [Proposal Report](./EECS3201_proposal_report.pdf) It contains a high-level description of the project and the FSM design states.
+- The final report of the project can be found here [Final Report](./EECS3201_final_project_report.pdf). It contains an in-depth explanation of the module design for peripheral drivers, FSMs and overall digital design of the whole system.
+
 ## 🛠️ Technologies & Tools
 ![Verilog](https://img.shields.io/badge/-Verilog-blue?logo=verilog&logoColor=white&style=plastic)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blueviolet?style=plastic)
