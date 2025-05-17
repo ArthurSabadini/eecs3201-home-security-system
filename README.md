@@ -14,10 +14,15 @@ The project was intended for educational and assessment purposes only. The final
 ## 🛠️ Technologies & Tools
 ![Verilog](https://img.shields.io/badge/-Verilog-blue?logo=verilog&logoColor=white&style=plastic)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blueviolet?style=plastic)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=plastic)  
 ![Quartus Prime](https://img.shields.io/badge/-Quartus%20Prime-lightgrey?logo=intel&logoColor=blue&style=plastic)
 
+- Developed a custom Digital Design for peripheral driver circuits using **Verilog**
+- Edited and compiled in **Quartus Prime**
+
 ## 🧱 Hardware Platform
-This project uses the [DE10-Lite FPGA development board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=205&No=1046) by [Terasic Technologies](https://www.terasic.com.tw/).
+- 🔌 **FPGA:** This project uses the [DE10-Lite FPGA development board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=205&No=1046) by [Terasic Technologies](https://www.terasic.com.tw/).
+- ⚙️ **Circuit Driver:** Custom circuit driver for all peripherals
 
 ## License
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
